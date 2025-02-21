@@ -25,3 +25,10 @@ __pycache__/
 
 # Credentials
 *.txt
+
+
+# Ignore database files
+data/input/*.db
+data/output/*.db
+standalone_admin_password.txt
+

@@ -71,6 +71,11 @@ graph TD;
 ✔ SQLite (or PostgreSQL, MySQL)  
 ✔ Required Python libraries (see `requirements.txt`)  
 
+## **Databse Files**
+To get the necessary database files, download them from the original source:
+[Recruitment Challenge - Data Engineering](https://github.com/haensel-ams/recruitment_challenge/tree/master/Data_Engineering_202309).
+
+
 ### **Setup Instructions**
 ```sh
 # Clone repository
