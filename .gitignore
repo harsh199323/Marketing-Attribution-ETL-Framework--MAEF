@@ -18,3 +18,10 @@ __pycache__/
 # IDE files
 .vscode/
 .idea/
+
+# Database files
+*.db
+*.sqlite
+
+# Credentials
+*.txt
