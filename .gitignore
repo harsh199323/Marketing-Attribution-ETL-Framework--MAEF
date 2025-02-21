@@ -1,0 +1,20 @@
+# Airflow core files
+airflow.db
+airflow.cfg
+logs/
+temp/
+*.log
+
+# Environment files
+.env
+venv/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
