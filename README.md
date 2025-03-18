@@ -1,5 +1,3 @@
-Here’s an improved **graphical** version of your `README.md`, including diagrams to visualize the ETL pipeline.  
-
 ---
 
 # **Airflow ETL Pipeline** 🚀
